@@ -159,3 +159,4 @@ https://grafana.com/grafana/dashboards/
 
 **LinkedIn**: [Nicolas Angelo](https://www.linkedin.com/in/nicoangelo)
 
+**embug - Embedded User Group Graz**: [Mailing list](https://freelists.org/list/embug)
